@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SMF3.3
+D Ultra Low Voltage TVS Diode, 200 W, SOD-123FL, UL94 V-0, UL 497B
+K
+F https://www.littelfuse.com/assetdocs/smf-ultra-low-voltage-datasheet?assetguid=4b82d0eb-a466-4efa-8454-1c30f820a046
+$ENDCMP
+#
+#End Doc Library

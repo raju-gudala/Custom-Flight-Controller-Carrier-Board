@@ -1,0 +1,232 @@
+(footprint "DIOM5026X229N"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "<b>SMAJ12CA</b><br>")
+	(property "Reference" "REF**"
+		(at 0 -2.032 0)
+		(layer "F.SilkS")
+		(uuid "66b768b7-1b47-4703-865c-432c9eb9d80f")
+		(effects
+			(font
+				(size 0.393701 0.393701)
+				(thickness 0.098425)
+			)
+		)
+	)
+	(property "Value" "DIOM5026X229N"
+		(at 0 2.032 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e9aea7bd-1712-4df0-876c-0e7db8b4c0c5")
+		(effects
+			(font
+				(size 0.393701 0.393701)
+				(thickness 0.098425)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a7bff1aa-b609-42d8-a02c-9c4d9a21d47d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "de160964-af18-421c-9f23-6d6c7149d819")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.52 1.298)
+		(end 2.52 1.298)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8c25df3e-a385-4ac8-aba6-69869d8752e5")
+	)
+	(fp_line
+		(start 2.52 -1.298)
+		(end -2.825 -1.298)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f84827b0-3ad7-4064-b657-e3b2e90aa7a2")
+	)
+	(fp_line
+		(start -3.4 -1.645)
+		(end 3.4 -1.645)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "354f2c6d-cfb9-48c6-a4c5-6f960d860380")
+	)
+	(fp_line
+		(start -3.4 1.645)
+		(end -3.4 -1.645)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b9c0b225-00b5-4c3f-9094-ee9c4939cc18")
+	)
+	(fp_line
+		(start -2.52 -1.298)
+		(end -1.745 -1.298)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "66c1bf02-d833-4c67-9ba5-f470f9ea12d0")
+	)
+	(fp_line
+		(start -2.52 -0.522)
+		(end -2.52 -1.298)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "93434c0d-b2f9-4b26-835a-c79a3560586c")
+	)
+	(fp_line
+		(start -2.52 -0.522)
+		(end -1.745 -1.298)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8a31f217-3a8d-4179-86e2-25c3f1b2fce3")
+	)
+	(fp_line
+		(start -2.52 1.298)
+		(end -2.52 -0.522)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "46a40032-3e9f-4ad3-918f-54837a176e4e")
+	)
+	(fp_line
+		(start -1.745 -1.298)
+		(end 2.52 -1.298)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b49daad9-9715-4244-a70a-d3287523f985")
+	)
+	(fp_line
+		(start 2.52 -1.298)
+		(end 2.52 1.298)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cc2b7cf0-d3b2-4b3f-9faf-882aa4b4b152")
+	)
+	(fp_line
+		(start 2.52 1.298)
+		(end -2.52 1.298)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "147e49b9-aac2-4efc-b1f3-5c0ed263bcbe")
+	)
+	(fp_line
+		(start 3.4 -1.645)
+		(end 3.4 1.645)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1535ecbe-aebd-4103-b68c-94f56258b93d")
+	)
+	(fp_line
+		(start 3.4 1.645)
+		(end -3.4 1.645)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4741821e-cf3f-414e-8477-7a4691cfec25")
+	)
+	(fp_text user "*"
+		(at -3.81 -0.635 0)
+		(layer "F.SilkS")
+		(uuid "4acc3f40-0238-4e0f-a601-cdd16e3519a7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.05 0)
+		(size 2.2 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "2b679c18-446f-4cfb-b34a-dbeb77e2175b")
+	)
+	(pad "2" smd rect
+		(at 2.05 0)
+		(size 2.2 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "75cef5fe-409a-4cb1-9d71-425f1674f86b")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Custom Footprints/SMAJ5.0A/SMAJ5.0A.step"
+		(offset
+			(xyz 0 0 1)
+		)
+		(scale
+			(xyz 1.1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+	(model "C:/Users/rajug/Desktop/PCB/CarrierB/Custom Footprints/SMAJ5.0A/SMAJ5.0A.step"
+		(offset
+			(xyz 0 0 1.25)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

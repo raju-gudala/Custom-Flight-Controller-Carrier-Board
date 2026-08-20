@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TAJC106K035RNJ
+D AVX +/-10% 10F 35 V dc SMD Tantalum Electrolytic Capacitor, 6032-28 ESR 1.6 +125C
+K
+F http://datasheets.avx.com/TAJ.pdf
+$ENDCMP
+#
+#End Doc Library

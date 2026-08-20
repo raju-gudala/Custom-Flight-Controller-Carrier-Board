@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CL10B474KA8NNNC
+D Cap Ceramic 0.47uF 25V X7R 10% Pad SMD 0603 125C T/R
+K
+F https://product.samsungsem.com/mlcc/basic-search.do?partNumber=CL10B474KA8NNN
+$ENDCMP
+#
+#End Doc Library
