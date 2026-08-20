@@ -1,20 +1,21 @@
-# KiCad temporary / lock files
-*.lck
-*.bak
+# KiCad local settings
 *.kicad_prl
-*.tmp
-*.log
 
-# KiCad history
+# KiCad backup folders
+*-backups/
+
+# Local history
 .history/
 .history_trim/
 
-# KiCad backup directories
-*-backups/
+# Backup files
+*.bak
+*~
 
 # OS files
 Thumbs.db
 .DS_Store
 
-# Large CAD file
-Design Files- Carrier_Board_V2/Mechanical/Overall Asembly Cube N.IGS
+# Temporary files
+*.tmp
+*.swp
